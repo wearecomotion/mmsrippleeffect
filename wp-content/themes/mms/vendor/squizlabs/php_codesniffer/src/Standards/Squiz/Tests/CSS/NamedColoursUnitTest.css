@@ -8,7 +8,7 @@
 }
 
 #red.yellow {
-    background: yellow url(/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/CSS/diag_lines_bg.gif) top left;
+    background: yellow url(/mmsrippleeffect/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/CSS/diag_lines_bg.gif) top left;
     text-shadow: 0 1px 0 white;
 }
 

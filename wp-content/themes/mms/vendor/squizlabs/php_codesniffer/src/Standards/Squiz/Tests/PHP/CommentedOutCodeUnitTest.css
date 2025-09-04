@@ -4,8 +4,8 @@ body {
 font-family: Arial, Helvetica, sans-serif;
 margin  :  40px 0 0 0;
 padding :  0;
-/*background: #8FB7DB url(/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/PHP/login_glow_bg.jpg) no-repeat 30% 0;*/
-background: #8FB7DB url(/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/PHP/diag_lines_bg.gif) top left;
+/*background: #8FB7DB url(/mmsrippleeffect/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/PHP/login_glow_bg.jpg) no-repeat 30% 0;*/
+background: #8FB7DB url(/mmsrippleeffect/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/PHP/diag_lines_bg.gif) top left;
 }
 
 #login-container {

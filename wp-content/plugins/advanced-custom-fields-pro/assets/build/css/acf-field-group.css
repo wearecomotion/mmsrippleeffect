@@ -193,8 +193,8 @@
   text-indent: 500%;
   white-space: nowrap;
   overflow: hidden;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-copy.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-copy.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-copy.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-copy.svg");
   background-size: cover;
 }
 #acf-field-group-fields .acf-field-list .copyable:not(.input-copyable, .copy-unsupported).sub-label {
@@ -209,8 +209,8 @@
   padding-left: 8px;
 }
 #acf-field-group-fields .acf-field-list .copyable:not(.input-copyable, .copy-unsupported).copied:hover:after {
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check-circle-solid.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check-circle-solid.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check-circle-solid.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check-circle-solid.svg");
   background-color: #49ad52;
 }
 #acf-field-group-fields .acf-field-list .copyable.input-copyable:not(.copy-unsupported) {
@@ -242,13 +242,13 @@
   text-indent: 500%;
   white-space: nowrap;
   overflow: hidden;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-copy.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-copy.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-copy.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-copy.svg");
   background-size: cover;
 }
 #acf-field-group-fields .acf-field-list .copyable.input-copyable:not(.copy-unsupported).copied .acf-input-wrap:after {
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check-circle-solid.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check-circle-solid.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check-circle-solid.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check-circle-solid.svg");
   background-color: #49ad52;
 }
 #acf-field-group-fields .acf-field-list .no-fields-message {
@@ -906,7 +906,7 @@ html[dir=rtl] .acf-field-object.open > .handle {
   max-width: 100%;
   padding-right: 40px;
   padding-left: 12px;
-  background-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  background-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
   background-position: right 10px top 50%;
   background-size: 20px;
 }
@@ -981,10 +981,10 @@ html[dir=rtl] .acf-field-object.open > .handle {
   left: 1px;
 }
 .acf-admin-page input[type=radio]:checked:before, .acf-admin-page input[type=radio]:focus:before {
-  background-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/field-states/radio-active.svg");
+  background-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/field-states/radio-active.svg");
 }
 .acf-admin-page input[type=checkbox]:checked:before, .acf-admin-page input[type=checkbox]:focus:before {
-  background-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/field-states/checkbox-active.svg");
+  background-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/field-states/checkbox-active.svg");
 }
 .acf-admin-page .acf-radio-list li input[type=radio],
 .acf-admin-page .acf-radio-list li input[type=checkbox],
@@ -1188,8 +1188,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
   mask-position: center;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-close.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-close.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-close.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-close.svg");
   background-color: #98A2B3;
 }
 .acf-admin-page .acf-input .select2-selection__clear:hover::before {
@@ -1387,8 +1387,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   left: 0;
   width: 20px;
   height: 20px;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
   background-color: #667085;
   border: none;
   border-radius: 0;
@@ -1426,8 +1426,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
 .acf-admin-page .acf-field-delete-terms .select2-container--open .select2-selection__arrow:after,
 .acf-admin-page .acf-field-assign-terms .select2-container--open .select2-selection__arrow:after,
 .acf-admin-page .acf-field-meta-box .select2-container--open .select2-selection__arrow:after {
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-up.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-up.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-up.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-up.svg");
 }
 .acf-admin-page .field-type-select-results {
   position: relative;
@@ -1467,8 +1467,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   left: 13px;
   width: 16px;
   height: 16px;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-search.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-search.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-search.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-search.svg");
   background-color: #98A2B3;
   border: none;
   border-radius: 0;
@@ -1542,8 +1542,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   position: absolute;
   width: 16px;
   height: 16px;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-check.svg");
   background-color: #0783BE;
   border: none;
   border-radius: 0;
@@ -1953,8 +1953,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
   mask-position: center;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info.svg");
 }
 
 /*----------------------------------------------------------------------------
@@ -2250,8 +2250,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   text-indent: 500%;
   white-space: nowrap;
   overflow: hidden;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-draggable.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-draggable.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-draggable.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-draggable.svg");
 }
 
 .rtl .acf-field-list .acf-sortable-handle:before {
@@ -2289,8 +2289,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   text-indent: 500%;
   white-space: nowrap;
   overflow: hidden;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
 }
 .acf-field-object .li-field-label:hover:before {
   cursor: pointer;
@@ -2303,20 +2303,20 @@ html[dir=rtl] .acf-field-object.open > .handle {
 .rtl .acf-field-object .li-field-label:before {
   left: 0;
   right: 6px;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
 }
 .rtl .acf-field-object.open .li-field-label:before {
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
 }
 .rtl .acf-field-object.open .acf-input-sub .li-field-label:before {
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-right.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-right.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-right.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-right.svg");
 }
 .rtl .acf-field-object.open .acf-input-sub .acf-field-object.open .li-field-label:before {
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-down.svg");
 }
 
 .acf-thead .li-field-label {
@@ -2528,8 +2528,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   text-indent: 500%;
   white-space: nowrap;
   overflow: hidden;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-close-circle.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-close-circle.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-close-circle.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-close-circle.svg");
 }
 .acf-admin-page #acf-popup .acf-popup-box .title .acf-icon:hover:before {
   background-color: #0783BE;
@@ -2617,7 +2617,7 @@ html[dir=rtl] .acf-field-object.open > .handle {
 .acf-admin-page .acf-create-options-page-popup .acf-popup-box .inner .acf-field.acf-error .acf-input-wrap input[type=text] {
   border: 1px rgba(209, 55, 55, 0.5) solid !important;
   box-shadow: 0px 0px 0px 3px rgba(209, 55, 55, 0.12), 0px 0px 0px rgba(255, 54, 54, 0.25) !important;
-  background-image: url(/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info-red.svg);
+  background-image: url(/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info-red.svg);
   background-position: right 10px top 50%;
   background-size: 14px;
   background-repeat: no-repeat;
@@ -2685,8 +2685,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
   mask-position: center;
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-time.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-time.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-time.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-time.svg");
 }
 
 /*----------------------------------------------------------------------------
@@ -3117,8 +3117,8 @@ html[dir=rtl] .acf-field-object.open > .handle {
 *
 *---------------------------------------------------------------------------------------------*/
 .post-type-acf-field-group .acf-field-object.open > .handle > .acf-tbody > .li-field-label::before {
-  -webkit-mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-up.svg");
-  mask-image: url("/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-up.svg");
+  -webkit-mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-up.svg");
+  mask-image: url("/mmsrippleeffect/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-chevron-up.svg");
 }
 
 /*---------------------------------------------------------------------------------------------

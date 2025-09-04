@@ -4,7 +4,7 @@
  * This is a merge conflict started in a comment, ending in a CSS block.
  */
 .SettingsTabPaneWidgetType-tab-mid {
-   background: transparent url(/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/VersionControl/tab_inact_mid.png) repeat-x;
+   background: transparent url(/mmsrippleeffect/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/VersionControl/tab_inact_mid.png) repeat-x;
 =======
  * which should be detected.
  **/

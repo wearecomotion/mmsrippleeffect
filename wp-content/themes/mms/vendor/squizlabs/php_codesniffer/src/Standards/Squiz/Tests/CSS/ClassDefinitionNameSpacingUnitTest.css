@@ -39,7 +39,7 @@ td.TableWidgetType-header.TableWidgetType-header-lastLogin,
 td.TableWidgetType-header.TableWidgetType-header-remove,
 td.TableWidgetType-header.TableWidgetType-header-email,
 td.TableWidgetType-header.TableWidgetType-header-userName {
-    background: url(/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/CSS/images/ScreenImages/table_header_bg.png) repeat-x;
+    background: url(/mmsrippleeffect/wp-content/themes/mms/vendor/squizlabs/php_codesniffer/src/Standards/Squiz/Tests/CSS/images/ScreenImages/table_header_bg.png) repeat-x;
     border-top: 1px solid #D4D4D4;
     color: #787878;
     height: 33px;
